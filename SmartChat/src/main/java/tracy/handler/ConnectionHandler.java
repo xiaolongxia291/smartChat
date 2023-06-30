@@ -4,7 +4,7 @@ import com.alibaba.fastjson2.JSON;
 import io.netty.channel.ChannelHandlerContext;
 import tracy.Server;
 import tracy.command.Command;
-import tracy.util.Result;
+import tracy.command.Result;
 
 public class ConnectionHandler {
     //用户上线处理逻辑

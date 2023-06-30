@@ -5,7 +5,7 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;
 import tracy.command.*;
-import tracy.util.Result;
+import tracy.command.Result;
 
 /**
  * TextWebSocketFrame表示消息体为文本类型

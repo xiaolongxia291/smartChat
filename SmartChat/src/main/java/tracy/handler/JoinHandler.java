@@ -2,7 +2,7 @@ package tracy.handler;
 
 import io.netty.channel.ChannelHandlerContext;
 import tracy.Server;
-import tracy.util.Result;
+import tracy.command.Result;
 
 public class JoinHandler {
     public static void execute(ChannelHandlerContext ctx){

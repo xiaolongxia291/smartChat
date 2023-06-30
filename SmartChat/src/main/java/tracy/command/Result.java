@@ -1,4 +1,4 @@
-package tracy.util;
+package tracy.command;
 
 import com.alibaba.fastjson2.JSON;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;

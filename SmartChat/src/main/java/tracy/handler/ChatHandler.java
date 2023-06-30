@@ -6,7 +6,7 @@ import tracy.Server;
 import tracy.command.Command;
 import tracy.command.Message;
 import tracy.command.MessageType;
-import tracy.util.Result;
+import tracy.command.Result;
 
 public class ChatHandler {
     //用户聊天逻辑
